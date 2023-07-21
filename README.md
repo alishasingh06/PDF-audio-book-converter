@@ -1,4 +1,4 @@
-# PDF-audio-book-converter
+# PDF to Audiobook Converter
 
 Converts any text pdfs to its audio book format.
 
